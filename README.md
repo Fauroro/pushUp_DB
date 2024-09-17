@@ -2,7 +2,8 @@
 
 ### Diagramas 
 
-
+![DER](https://github.com/Fauroro/pushUp_DB/blob/main/DER.png)
+![Diagrama Modelo Conceptual](https://github.com/Fauroro/pushUp_DB/blob/main/DiagramaModeloConceptual.png)
 
 ### Creación de la Bade de Datos
 
